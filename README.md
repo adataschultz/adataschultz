@@ -10,8 +10,6 @@
   </a>&nbsp
   <a href="https://www.researchgate.net/profile/Andrew-Schultz-17" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="30" width="110px"/>
   <a href= "mailto:aschultz.data@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30" width="110px" />
-  </a>&nbsp
-     <p align="center"> <img src="https://komarev.com/ghpvc/?username=adataschultz" alt="adataschultz" /> </p>
   </a>
   
 - 🌱 Academic Data Scientist
