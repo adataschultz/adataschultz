@@ -15,6 +15,7 @@
 - 🌱 Academic Data Scientist
 - 🔭 Critical thinker and self-directed learner with multiple years of biomedical research experience/publications for various cancer types and diabetes  
 - ⚡ Fun fact: Classically-trained musician
+- 😄 Microsoft Certified: Azure Data Scientist Associate
 
 
 <a name="Data Science Blog"></a>
